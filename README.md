@@ -1,0 +1,1 @@
+# python-spin-class-generator
